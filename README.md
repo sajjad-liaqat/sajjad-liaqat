@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
 <h1 align="center">Hi 👋, I'm Sajjad Liaqat!</h1>
-<h3 align="center">I'm a seasoned Full-Stack Developer specializing in React.js and Node.js. I’m passionate about crafting scalable, innovative solutions and transforming ideas into impactful digital experiences.</h3>
+<h3 align="center">I'm a seasoned Full-Stack Developer. I’m passionate about crafting scalable, innovative solutions and transforming ideas into impactful digital experiences.</h3>
 <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" align="right" alt="Coding" width="400">
 
 
