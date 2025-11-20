@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjad-liaqat&label=Profile%20views&color=0e75b6&style=flat" alt="sajjad-liaqat" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **refining my skills and exploring advanced concepts in React.js and Node.js.**
 
 - ⚡ Fun fact **I'm also an avid photographer and love capturing moments in nature!**
