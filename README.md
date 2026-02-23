@@ -1,102 +1,101 @@
-# Hi 👋 I'm Sajjad
+# 👨‍💻 Sajjad
 
-### 🚀 Full Stack Developer | Scalable Web Applications | Marketplace & SaaS Systems
+**`Full Stack Developer | Scalable Web Systems | Marketplace & SaaS Architect`**
 
-I’m a results-driven Full Stack Developer specializing in building secure, scalable, and high-performance web applications.  
-I design complete end-to-end systems — from frontend UI to backend architecture and deployment.
+I build secure, scalable, and production-ready web applications — from frontend interfaces to backend architecture and deployment.
+
+Focused on real-world business systems: marketplaces, SaaS platforms, automation tools, and payment integrations.
+
+<p align="left">
+   <a href="https://github.com/YOUR_USERNAME?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/YOUR_USERNAME?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+   </a>
+   <a href="https://github.com/YOUR_USERNAME?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/YOUR_USERNAME?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+   </a>
+</p>
 
 ---
 
-## 💼 What I Do
-
-- 🔹 Build full-stack SaaS platforms
-- 🔹 Develop custom marketplace systems
-- 🔹 Create secure payment & bidding systems
-- 🔹 Design RESTful APIs
-- 🔹 Develop real-time applications
-- 🔹 Deploy and manage production servers
-
----
-
-## 🛠 Tech Stack
+## 🧰 Languages & Tools
 
 ### 🎨 Frontend
-- HTML5, CSS3, Bootstrap, Tailwind CSS
-- JavaScript (ES6+)
-- React.js
-- jQuery & AJAX
-- Fabric.js
-- Responsive UI Design
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙ Backend
-- PHP
-- Laravel
-- Node.js
-- Express.js
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄 Databases
-- MySQL
-- MongoDB
-- Database Design & Optimization
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🔌 APIs & Integrations
-- Stripe
-- PayPal
-- Twilio
-- Google Maps API
-- RESTful APIs
-- AI Integration
+### 🔌 Integrations
+![Stripe](https://img.shields.io/badge/stripe-%23635BFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![Twilio](https://img.shields.io/badge/twilio-%23F22F46.svg?style=for-the-badge&logo=twilio&logoColor=white)
+![WordPress](https://img.shields.io/badge/wordpress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### 🧩 CMS & E-commerce
-- WordPress
-- WooCommerce
-- Theme Customization
-- Plugin Development
-
-### ☁ Deployment & DevOps
-- Git & GitHub
-- cPanel
-- VPS Setup
-- Shared Hosting
-- Domain & DNS Configuration
-- CI/CD
+### ☁ DevOps
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![VPS](https://img.shields.io/badge/VPS-Server-blue?style=for-the-badge)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Systems I've Built
 
 ### 🏆 Online Auction Marketplace
-A scalable real-time auction platform with secure bidding, seller/buyer dashboards, and Stripe payment integration.  
-Built for startups and businesses launching marketplace systems.
+- Real-time bidding engine
+- Secure Stripe payment integration
+- Seller & buyer dashboards
+- Scalable multi-category marketplace architecture
 
 ### ⏱ Employee Attendance Management System
-Advanced attendance tracking system with live worked-hour calculation, payroll-ready Excel/PDF exports, and admin dashboard.
+- Multi clock-in/out per day
+- Live worked-hours calculation
+- Payroll-ready Excel/PDF exports
+- Admin analytics dashboard
 
-### 🏫 Daycare Management System
-Full-stack SaaS platform automating attendance, billing, employee management, parent communication, and analytics dashboards.
-
-### 📍 Location-Based Services Platform
-Interactive map-based service finder with booking and subscription management.
+### 🏫 Daycare Management SaaS
+- Attendance automation
+- Billing & invoicing system
+- Employee management
+- Real-time notifications (Twilio)
+- Data visualization dashboards
 
 ---
 
-## 🎯 My Strengths
+## 📊 GitHub Stats
 
-- Clean and maintainable code
-- Scalable architecture design
-- Security-focused development
-- Business-oriented problem solving
+![Sajjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&border_radius=4.5)
+
+---
+
+## 🎯 What I Focus On
+
+- Clean & scalable architecture
+- Business-driven development
+- Secure payment systems
+- Real-time applications
+- Production deployment
 - Performance optimization
-- Production-ready deployments
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
 
-- 💼 Open to freelance & remote opportunities
-- 🚀 Available for full-stack development projects
-- 📩 Reach out for collaboration or custom system development
+- 💼 Open to remote opportunities
+- 🚀 Available for freelance & SaaS development
+- 📩 Let’s build something scalable
 
 ---
 
-⭐ *Building systems that scale, perform, and create real business impact.*
+⭐ Building systems that solve real business problems.
