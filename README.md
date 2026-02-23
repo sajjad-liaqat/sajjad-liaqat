@@ -73,8 +73,6 @@ Focused on real-world business systems: marketplaces, SaaS platforms, automation
 
 ## 📊 GitHub Stats
 
-![Sajjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjad-liaqat&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=sajjad-liaqat&theme=tokyonight&border_radius=4.5)
 
 ---
